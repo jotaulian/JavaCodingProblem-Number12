@@ -1,3 +1,7 @@
+//Realizar un programa que lea 5 cadenas y nos diga cu√°l es la mayor de
+//ellas alfab√©ticamente.
+
+
 import java.util.Scanner;
 
 public class Mayor_Ej12
@@ -23,6 +27,3 @@ public class Mayor_Ej12
 	}
 
 }
-
-//Realizar un programa que lea 5 cadenas y nos diga cu·l es la mayor de
-//ellas alfabÈticamente.
